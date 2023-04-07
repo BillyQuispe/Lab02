@@ -1,0 +1,48 @@
+
+
+body{
+    width: 80%;
+    margin: 0 auto;
+    background: rgb(66, 106, 180);
+    background-size: cover;
+    font-family: 'verdana', sans-serif;
+    box-sizing: border-box;
+    padding: 0;
+    }
+
+
+h1 {
+    text-align: center;
+    text-transform: uppercase;
+    text-decoration: overline underline;
+    word-spacing: 10px;
+    letter-spacing: 2px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color:rgb(104, 13, 13);
+}
+
+p{
+    line-height: 1.4;
+    text-align: justify;
+}
+
+#datos, #principal {
+    
+    float: left;
+    padding: 0;
+    margin: 0;
+}
+
+#datos {
+    width: 25%;
+}
+
+#principal {
+    width: 75%;
+}
+
+#contenido {
+    list-style-type: none;
+    padding: 0;
+}
+
